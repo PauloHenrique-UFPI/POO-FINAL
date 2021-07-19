@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/IPcalculation/IPcalculation.py
+src/IPcalculation/__init__.py
+src/IPcalculation.egg-info/PKG-INFO
+src/IPcalculation.egg-info/SOURCES.txt
+src/IPcalculation.egg-info/dependency_links.txt
+src/IPcalculation.egg-info/top_level.txt
